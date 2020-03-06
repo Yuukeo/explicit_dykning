@@ -2,7 +2,7 @@ Lätt script som låter dig byta om till dykarkläder finns även ett Dykningski
 
 Väldigt lätt att byta positioner etc
 
-# Instalation
+# Installation
 
 starta i cfgn 
 
